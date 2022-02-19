@@ -1,5 +1,5 @@
 # Project Description
-This is a simple blog project built with react.
+This is a blog with CRUD functionalities built with React.
 
 ## Available Scripts
 
